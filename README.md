@@ -1,4 +1,4 @@
-## 2. Bragg CDI SOM Pixel-Level Classification Demo
+## Bragg CDI SOM Pixel-Level Classification Demo
 
 Files: `bragg_cdi_som_pixel_classification_demo.pptx` / `.pdf`
 
